@@ -1,0 +1,38 @@
+_repo: Polly-and-Her-Friends-Abroad_37429
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barbour, Harold S.
+    alias: Barbour, H. S.
+    birthdate: 1889
+    deathdate: 1961
+    gutenberg_agent_id: '24752'
+    url: http://www.gutenberg.org/2009/agents/24752
+covers:
+- cover_type: archival
+  image_path: 37429-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Roy, Lillian Elizabeth
+    alias: Roy, Lillian Elizabeth Becker
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '1910'
+    url: http://www.gutenberg.org/2009/agents/1910
+description: ''
+gutenberg_issued: '2011-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Europe -- Description and travel -- Juvenile fiction'
+title: Polly and Her Friends Abroad
+url: http://www.gutenberg.org/ebooks/37429
